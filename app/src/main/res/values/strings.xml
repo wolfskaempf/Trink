@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trink</string>
+    <string name="button_500_ml">500 ml</string>
+    <string name="button_1_liter">1 L</string>
+    <string name="button_250_ml">250 ml</string>
+    <string name="text_view_add_liquid">How much did you drink?</string>
+    <string name="text_view_progress_initial">0 ml</string>
+    <string name="text_view_progress_dynamic">%1$d ml</string>
+    <string name="unit_ml">ml</string>
+    <string name="menu_item_reset">Reset</string>
+    <string name="button_100_ml">100 ml</string>
+    <string name="menu_item_remove_50_ml">-50 ml</string>
+</resources>
